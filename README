@@ -1,0 +1,2 @@
+compile with g77, e.g.:
+g77 -ffree-form convert.for -o convert.exe
